@@ -10,6 +10,6 @@ live website link = https://pankajnayak009.github.io/StudySync_Online_Educationa
 ![new 2  2025](https://github.com/user-attachments/assets/268c1f2b-daa4-42d4-a47e-228f148ecca2)
 
 
-![new 2  2025](https://github.com/user-attachments/assets/217b4b76-1720-439a-a99b-bd66f49cbe06)
+
 
 
