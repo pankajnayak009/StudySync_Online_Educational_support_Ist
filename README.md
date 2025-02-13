@@ -7,5 +7,6 @@ Description > Our innovative platform offers an effortless and seamless approach
 
 live website link = https://pankajnayak009.github.io/StudySync_Online_Educational_support_Ist/
 
-![Uploading new scx for github.png…]()
+![Uploading Screenshot (4).png…]()
+
 
